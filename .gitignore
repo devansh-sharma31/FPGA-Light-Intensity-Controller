@@ -1,0 +1,25 @@
+# Vivado / FPGA generated files
+*.jou
+*.log
+*.str
+*.xpr
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.srcs/sources_1/bd/
+
+# Simulation files
+*.wdb
+*.vcd
+*.fst
+
+# Temporary / backup
+*~
+*.bak
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
